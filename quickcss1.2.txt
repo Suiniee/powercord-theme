@@ -48,6 +48,11 @@
 .message-24k8JL{
   background-color: rgb(79, 49, 48);
 }
+
+.searchBar-3TnChZ
+{
+  background-color: rgb(79, 49, 48);
+}
 .container-ZMc96U.themed-Hp1KC_ {
   background-color: rgb(79, 49, 48);
 }
