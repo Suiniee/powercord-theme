@@ -13,6 +13,10 @@
   background-color: rgb(79, 49, 48);
 }
 
+.messageGroupWrapper-1jf_7C .messageGroupCozy-3v_RqN
+{
+  background-color: rgb(79, 49, 48);
+}
 .sidebar-nqHbhN {
  background-color:  rgb(79, 49, 48);
 }
@@ -31,6 +35,10 @@
 
 .scroller-1ox3I2 {
   background-color: rgb(79, 49, 48);
+}
+
+.messagesPopout-eVzQcI{
+  background-color: rgb(79, 49, 48)
 }
 
 .container-YkUktl, .container-YkUktl .avatar-1EWyVD {
@@ -91,6 +99,43 @@
 
 .container-3i3IzO{
   background-color: #5b3837;
+}
+
+.powercord-codeblock-table {
+  background-color: #5b3837;
+}
+
+.scrollbarGhostHairline-2LpzZ9 {
+  background-color: #5b3837;
+}
+
+.list-3YHPPb {
+  background-color: rgb(79, 49, 48);
+} 
+.thin-31rlnD {
+  background-color: rgb(79, 49, 48);
+} 
+.scrollerBase-_bVAAt {
+  background-color: rgb(79, 49, 48);
+} 
+.fade-1R6FHN {
+  background-color: rgb(79, 49, 48);
+}
+
+.container-2rzKKA {
+  background-color: rgb(79, 49, 48);
+}
+.scrollbar-3vVt8d
+{
+  background-color: rgb(79, 49, 48);
+}
+
+code.scrollbarGhostHairline-2LpzZ9.scrollbar-3vVt8d.hljs {
+  background-color: rgb(79, 49, 48);
+}
+
+.markup-eYLPri {
+  background-color: rgb(79, 49, 48);
 }
 
 .sidebarRegionScroller-FXiQOh {
