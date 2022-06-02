@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+*,
+*::before,
+*::after {
+  font-family: 'Montserrat';
+}
+
+.contentColumn-1C7as6, .customColumn-2n-oKU {
+  background-color: rgb(79, 49, 48);
+}
+
+.topPill-3DJJNV {
+  background-color: rgb(79, 49, 48);
+}
+
+.sidebar-nqHbhN {
+ background-color:  rgb(79, 49, 48);
+}
+
+.contentRegionScroller-2_GT_N {
+  background-color:  rgb(79, 49, 48);
+}
+
+.scroller-kQBbkU {
+  background-color: rgb(79, 49, 48) !important;
+}
+
+.form-3gdLxP {
+  background-color: rgb(79, 49, 48);
+}
+
+.scroller-1ox3I2 {
+  background-color: rgb(79, 49, 48);
+}
+
+.container-YkUktl, .container-YkUktl .avatar-1EWyVD {
+  background-color: rgb(79, 49, 48);
+}
+
+.guilds-2JjMmN .scroller-3X7KbA {
+  background-color: rgb(79, 49, 48);
+}
+
+.header-3OsQeK {
+  background-color: rgb(79, 49, 48);
+}
+
+.message-24k8JL{
+  background-color: rgb(79, 49, 48);
+}
+.container-ZMc96U.themed-Hp1KC_ {
+  background-color: rgb(79, 49, 48);
+}
+
+.text-md-normal-304U3g{
+  background-color: rgb(79, 49, 48);
+}
+
+.children-3xh0VB:after {
+  opacity: 0%
+}
+
+.members-3WRCEx, .members-3WRCEx>div {
+  background-color: rgb(79, 49, 48);
+}
+
+.searchHeader-1r_ZSh{
+  background-color: rgb(79, 49, 48);
+}
+
+.scroller-1bVxF5 {
+  background-color: rgb(79, 49, 48);
+}
+
+.scroller-WSmht3{
+  background-color: rgb(79, 49, 48);
+}
+
+.scroller-3iiyhZ{
+  background-color: rgb(79, 49, 48);
+}
+
+.form-3gdLxP:before {
+  opacity: 0%;
+}
+
+.sidebarRegionScroller-FXiQOh {
+  background-color: rgb(117, 55, 66);
+}
+
+/* text bar */
+.fontSize16Padding-XoMpjI {
+  background-color: rgb(117, 55, 66);
+}
+
+.scrollableContainer-15eg7h {
+  background-color: rgb(117, 55, 66);
+}
