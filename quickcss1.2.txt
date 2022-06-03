@@ -69,8 +69,24 @@
   background-color: rgb(79, 49, 48);
 }
 
+.wrapper-1NNaWG{
+  background-color: rgb(79, 49, 48);
+}
+
+.inspector-DFKXwB{
+  background-color: rgb(79, 49, 48);
+}
+
+.unicodeShortcut-3N8oDe {
+  background-color: rgb(79, 49, 48);
+}
+
 .children-3xh0VB:after {
   opacity: 0%
+}
+
+.contentWrapper-3vHNP2{
+  background-color: rgb(79, 49, 48);
 }
 
 .members-3WRCEx, .members-3WRCEx>div {
@@ -93,6 +109,10 @@
   background-color: rgb(79, 49, 48);
 }
 
+.attachment-1PZZB2{
+  background-color: rgb(79, 49, 48);
+}
+
 .form-3gdLxP:before {
   opacity: 0%;
 }
@@ -107,6 +127,63 @@
 
 .scrollbarGhostHairline-2LpzZ9 {
   background-color: #5b3837;
+}
+
+.sidebar-1tnWFu {
+  border-radius: 0 !important;
+}
+
+.content-1gYQeQ {
+  border-radius: 0;
+}
+
+.userPopout-2j1gM4{
+ border-radius: 0px; 
+}
+
+.searchBar-2aylmZ .container-2oNtJn .medium-2NClDM {
+  border-radius: 0px;
+}
+
+.quickswitcher-pKcM9U, .quickswitcher-pKcM9U * {
+  background-color: rgb(79, 49, 48);
+  border-radius: 0px;
+}
+
+.header-3OsQeK{
+  position: static;
+  z-index: 0;
+}
+
+.itemCard-3Etziu{
+  background-color: rgb(79, 49, 48);
+}
+
+.section-3G9aLW:only-child{
+  background-color: rgb(79, 49, 48);
+}
+
+.itemCard-3Etziu:first-of-type{
+  background-color: rgb(79, 49, 48);
+}
+
+.peopleColumn-1wMU14{
+  background-color: rgb(79, 49, 48);
+}
+
+.scrollableContainer-15eg7h{
+  border-radius: 0px;
+}
+
+.searchBar-jGtisZ{
+  border-radius: 0px;
+}
+
+.searchBar-3TnChZ{
+  z-index: 0;
+}
+.form-3gdLxP{
+  position: static;
 }
 
 .list-3YHPPb {
