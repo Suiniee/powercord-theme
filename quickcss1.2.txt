@@ -13,6 +13,10 @@
 	border-radius: 0px;  
 }
 
+.button-f2h6uQ{
+	border-radius: 0px;  
+}
+
 .input-2g-os5{
 	border-radius: 0px;  
 }
