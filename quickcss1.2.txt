@@ -9,7 +9,15 @@
   background-color: rgb(79, 49, 48);
 }
 
+.root-8LYsGj{
+	border-radius: 0px;  
+}
+
 .topPill-3DJJNV {
+  background-color: rgb(79, 49, 48);
+}
+
+.topSection-13QKHs{
   background-color: rgb(79, 49, 48);
 }
 
