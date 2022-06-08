@@ -9,6 +9,18 @@
   background-color: rgb(79, 49, 48);
 }
 
+.headerTop-3GPUSF{
+  background-color: rgb(79, 49, 48);
+}
+
+.bodyInnerWrapper-2bQs1k{
+  background-color: rgb(79, 49, 48);
+}
+
+.footer-3naVBw{
+  background-color: rgb(79, 49, 48);
+}
+
 .topPill-3DJJNV {
   background-color: rgb(79, 49, 48);
 }
